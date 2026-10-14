@@ -1,0 +1,11 @@
+=== RUN STARTED at 周五 2026/09/11  0:21:42.89 === 
+ 
+[1] Compiling... 
+Compile exit code: 0 
+ 
+[2] Compile OK, running program... 
+ 
+--- Program output below --- 
+ 
+Enter first time (hour minute): 
+^C
